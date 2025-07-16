@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Prasanna Hegde
+<p align="center">
+  <h1 align="center">👋 Hi, I'm Prasanna Hegde</h1>
+</p>
 
-🎯 **Azure Data Engineer** | 💡 Passionate about building scalable data solutions
+<p align="center">
+  🎯 <strong>Azure Data Engineer</strong>  
+  <br/>
+  💡 Passionate about building scalable data solutions
+</p>
 
 ---
 
@@ -23,9 +29,17 @@ Currently working as an **Azure Data Engineer**, I specialize in designing and i
 
 ## 🤝 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hegdeprasanna192@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannahegde192)
+<p align="center">
+  <a href="mailto:hegdeprasanna192@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prasannahegde192">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-> ✨ _“Turning data chaos into clarity — one pipeline at a time.”_
+<p align="center">
+  ✨ <em>“Turning data chaos into clarity — one pipeline at a time.”</em>
+</p>
