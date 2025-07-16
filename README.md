@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# 👋 Hi, I'm Prasanna Hegde
 
-You can use the [editor on GitHub](https://github.com/Prasannahegde192/prasanna/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+🎯 **Azure Data Engineer** | 💡 Passionate about building scalable data solutions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## 🚀 About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a data professional with a strong passion for transforming raw data into actionable insights.  
+Currently working as an **Azure Data Engineer**, I specialize in designing and implementing robust **data pipelines**, performing **data cleaning & transformation**, and optimizing workflows across cloud platforms.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 🧰 Tech Stack & Interests
 
-- Bulleted
-- List
+- ☁️ **Cloud**: Azure Data Factory | Azure Synapse Analytics  
+- 🔥 **Big Data**: Databricks | PySpark | Spark SQL  
+- 🐍 **Programming**: Python | SQL  
+- 🔄 **ETL & Data Workflows**  
+- 📊 **Data Engineering** | **Data Transformation** | **Data Quality**
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## 🤝 Let's Connect
 
-[Link](url) and ![Image](src)
-```
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hegdeprasanna192@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannahegde192)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prasannahegde192/prasanna/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> ✨ _“Turning data chaos into clarity — one pipeline at a time.”_
